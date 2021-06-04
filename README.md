@@ -1,3 +1,3 @@
 # gas-test
 
-TOKEN2 = SKf99f5dbd9668f722ac72d55d6fffff99
+github-token = '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'
